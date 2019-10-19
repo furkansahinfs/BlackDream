@@ -1,0 +1,7 @@
+lastUpgrade=00925
+proj.AppId=361760774060
+web.ClientId=361760774060-s6reek362gjfr2qdccqoeiteminifbd5.apps.googleusercontent.com
+android.SetupDone=true
+proj.ConstantsClassName=GooglePlayGames.GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3cstring+name%3d%22app_id%22%3e361760774060%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_baar_1%22%3eCgkIrK_91MMKEAIQAg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_baar_2%22%3eCgkIrK_91MMKEAIQAw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_baar_3%22%3eCgkIrK_91MMKEAIQBA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_baar_4%22%3eCgkIrK_91MMKEAIQBQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_baar_5%22%3eCgkIrK_91MMKEAIQBg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22leaderboard_leaderboard%22%3eCgkIrK_91MMKEAIQDA%3c%2fstring%3e%0d%0a%3c%2fresources%3e
+and.ClientId=361760774060-s6reek362gjfr2qdccqoeiteminifbd5.apps.googleusercontent.com

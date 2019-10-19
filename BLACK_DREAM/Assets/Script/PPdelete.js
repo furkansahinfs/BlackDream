@@ -1,0 +1,4 @@
+﻿function Start () {
+PlayerPrefs.DeleteAll();
+}
+
